@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6030a12c-f42a-4e84-a90d-6ff6f7f7f432" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../CheckGit/CheckGit.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Git_HomeWork_1/Git_HomeWork_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Git_Test/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Git_Test/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Git_Test/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Git_Test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Git_Test/Git_Test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Git_Test_1/Git_Test_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Less_1/Less_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Less_2_DataTypes/Less_2_DataTypes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Less_3_DatTyp_2/Less_3_DatTyp_2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_1/OOP_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_1/src/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_1/src/Mashina.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_Lesson_1/OOP_Lesson_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_Lesson_1/src/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_Lesson_1/src/OOP_1_1/Rectangl_Scan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_Lesson_1/src/OOP_1_1/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_Lesson_1/src/SEASON/Season.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_Lesson_1_T3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_Lesson_1_T3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_Lesson_1_T3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_Lesson_1_T3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_Lesson_1_T3/OOP_Lesson_1_T3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_Lesson_1_T3/src/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/src/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/src/Season.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chain_constr/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Git_Test/src/GitName.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Git_Test/src/HelloCat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP_Lesson_1/src/RECT.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP_Lesson_1/src/OOP_1_1/RECT.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2eIv9G4ZCfZAu7QgyxgK7u82ZsF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showModules" value="false" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="module" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Dog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chain_constr.Dog" />
+      <module name="Test_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chain_constr.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Dog" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6030a12c-f42a-4e84-a90d-6ff6f7f7f432" name="Changes" comment="" />
+      <created>1711604753591</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711604753591</updated>
+      <workItem from="1711604754921" duration="5515000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
